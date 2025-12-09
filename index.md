@@ -3,7 +3,7 @@
 ## Contact
 
 Pour toute question, suggestion ou probleme :
-- Email : music.music.music01@gmail.com
+- Email : snappybx@gmail.com
 
 ## FAQ
 
@@ -30,7 +30,7 @@ Version actuelle : 1.0
 ## Contact
 
 For any questions, suggestions or issues:
-- Email: music.music.music01@gmail.com
+- Email: snappybx@gmail.com
 
 ## FAQ
 

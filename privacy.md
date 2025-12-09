@@ -36,7 +36,7 @@ Vous pouvez supprimer toutes vos donnees en :
 
 ## Contact
 
-Pour toute question : music.music.music01@gmail.com
+Pour toute question : snappybx@gmail.com
 
 ## Modifications
 
@@ -82,7 +82,7 @@ You can delete all your data by:
 
 ## Contact
 
-For any questions: music.music.music01@gmail.com
+For any questions: snappybx@gmail.com
 
 ## Changes
 
