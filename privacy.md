@@ -1,89 +1,53 @@
 # Politique de Confidentialite - FootballMap
 
-Derniere mise a jour : Decembre 2024
+Derniere mise a jour : Fevrier 2026
 
-## Collecte des Donnees
+## Donnees collectees
 
-FootballMap collecte un minimum de donnees pour ameliorer votre experience :
+- **Donnees locales** : joueurs, matchs, formations tactiques — stockees sur votre appareil.
+- **iCloud** : ces memes donnees sont synchronisees via votre compte iCloud. Apple gere cette synchronisation selon sa propre politique de confidentialite.
+- **Analytics (Firebase)** : statistiques d'utilisation anonymes pour ameliorer l'app. Aucune donnee personnelle collectee.
+- **Notifications push (Firebase Cloud Messaging)** : un identifiant technique (token) est genere pour votre appareil. Aucune donnee personnelle associee.
+- **Camera et photos** : utilisees uniquement pour ajouter des photos de joueurs. Les images restent sur votre appareil et dans votre iCloud.
+- **Abonnements** : geres par Apple via l'App Store. Nous n'avons pas acces a vos informations de paiement.
+- **Feedback** : si vous envoyez un avis, nous collectons la note, le commentaire, le modele d'appareil et la version de l'app.
 
-### Donnees stockees localement sur votre appareil :
-- Informations des joueurs (noms, numeros, stats)
-- Historique des matchs et scores
-- Formations tactiques
+## Partage des donnees
 
-### Donnees synchronisees via iCloud :
-- Toutes les donnees de l'app sont synchronisees via votre compte iCloud personnel
-- Apple gere ces donnees selon sa politique de confidentialite
+Nous ne vendons ni ne partageons vos donnees avec des tiers.
 
-### Analytics (Firebase) :
-- Statistiques d'utilisation anonymes (fonctionnalites utilisees, crashs)
-- Aucune information personnelle n'est collectee
-- Utilise uniquement pour ameliorer l'application
+## Suppression
 
-### Feedback :
-- Lorsque vous envoyez un feedback, nous collectons : note, commentaire, modele d'appareil, version de l'app
-- Aucune identification personnelle
-
-## Partage des Donnees
-
-Nous ne vendons ni ne partageons vos donnees personnelles avec des tiers.
-
-## Vos Droits
-
-Vous pouvez supprimer toutes vos donnees en :
-- Supprimant l'application de votre appareil
-- Supprimant les donnees FootballMap dans les reglages iCloud
+Supprimez l'app ou les donnees FootballMap dans vos reglages iCloud.
 
 ## Contact
 
-Pour toute question : snappybx@gmail.com
-
-## Modifications
-
-Cette politique peut etre mise a jour. Consultez cette page periodiquement.
+snappybx@gmail.com
 
 ---
 
 # Privacy Policy - FootballMap (English)
 
-Last updated: December 2024
+Last updated: February 2026
 
-## Data Collection
+## Data collected
 
-FootballMap collects minimal data to improve your experience:
+- **Local data**: players, matches, tactical formations — stored on your device.
+- **iCloud**: this same data is synced via your iCloud account. Apple manages this sync under their own privacy policy.
+- **Analytics (Firebase)**: anonymous usage statistics to improve the app. No personal data collected.
+- **Push notifications (Firebase Cloud Messaging)**: a technical identifier (token) is generated for your device. No personal data associated.
+- **Camera and photos**: used only to add player photos. Images stay on your device and in your iCloud.
+- **Subscriptions**: managed by Apple via the App Store. We do not have access to your payment information.
+- **Feedback**: if you submit a review, we collect the rating, comment, device model and app version.
 
-### Data stored locally on your device:
-- Player information (names, numbers, stats)
-- Match history and scores
-- Tactical formations
+## Data sharing
 
-### Data synced via iCloud:
-- All app data is synced through your personal iCloud account
-- Apple manages this data according to their privacy policy
+We do not sell or share your data with third parties.
 
-### Analytics (Firebase):
-- Anonymous usage statistics (features used, app crashes)
-- No personal information is collected
-- Used solely to improve the app
+## Deletion
 
-### Feedback:
-- When you submit feedback, we collect: rating, comment, device model, app version
-- No personal identification
-
-## Data Sharing
-
-We do not sell or share your personal data with third parties.
-
-## Your Rights
-
-You can delete all your data by:
-- Deleting the app from your device
-- Removing FootballMap data from iCloud settings
+Delete the app or remove FootballMap data from your iCloud settings.
 
 ## Contact
 
-For any questions: snappybx@gmail.com
-
-## Changes
-
-This policy may be updated. Check this page periodically.
+snappybx@gmail.com

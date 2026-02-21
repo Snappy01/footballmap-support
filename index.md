@@ -5,6 +5,11 @@
 Pour toute question, suggestion ou probleme :
 - Email : snappybx@gmail.com
 
+## Liens
+
+- [Politique de Confidentialite](privacy)
+- [Conditions d'Utilisation](terms)
+
 ## FAQ
 
 ### Comment ajouter un joueur ?
@@ -17,11 +22,11 @@ Placez vos joueurs sur le terrain, appuyez sur "Match" et renseignez le nom de l
 Oui, automatiquement via iCloud si active sur votre appareil.
 
 ### Comment creer des equipes equilibrees ?
-Allez dans l'onglet "Equipes", selectionnez les joueurs presents et appuyez sur "Generer".
+Allez dans "Plus" > "Generateur d'equipes", selectionnez les joueurs et appuyez sur "Generer".
 
 ## Version
 
-Version actuelle : 1.0
+Version actuelle : 1.2
 
 ---
 
@@ -31,6 +36,11 @@ Version actuelle : 1.0
 
 For any questions, suggestions or issues:
 - Email: snappybx@gmail.com
+
+## Links
+
+- [Privacy Policy](privacy)
+- [Terms of Use](terms)
 
 ## FAQ
 
@@ -44,8 +54,8 @@ Place your players on the pitch, tap "Match" and fill in the opponent name.
 Yes, automatically via iCloud if enabled on your device.
 
 ### How do I create balanced teams?
-Go to the "Teams" tab, select available players, and tap "Generate".
+Go to "More" > "Team Generator", select available players, and tap "Generate".
 
 ## Version
 
-Current version: 1.0
+Current version: 1.2
